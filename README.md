@@ -49,7 +49,7 @@ O sistema foi modelado utilizando os seguintes diagramas UML, conforme solicitad
 **Foco:** Refletir a estrutura do sistema (Classes como `Competição`, `Atleta`, `Local`, `Resultado` e `País`) e organizar as responsabilidades em pacotes lógicos.
 
 #### **Diagrama de Classes**
-<img width="800px" src="[URL_BASE_DO_REPOSITORIO]/blob/main/imagens/diagrama-de-classes.png"/>
+<img width="500px" height="500px" src="imagens/DiagramaDeClasses.png"/>
 
 #### **Diagrama de Pacotes**
 <img width="800px" src="[URL_BASE_DO_REPOSITORIO]/blob/main/imagens/diagrama-de-pacotes.png"/>
