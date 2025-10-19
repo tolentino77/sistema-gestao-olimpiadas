@@ -1,2 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7"><diagram id="wPRmosu2kGfP2HcqIkJW" name="Diagrama de Classes">5VpRb+I4EP41SPSkVjiBAI8ttNeTutpqu9qV7s0kJlhNYuSY0u6vv3HsBBI7ELakV1hesCe2E88383lmko47iV//5ni5+MICEnWcXvDacacdx0HDkQt/UvKmJOMhUoKQ00CJehvBE/1F9MxcuqIBSbVMiQRjkaDLstBnSUJ8UZJhztm6PGzOoqAkWOKQGIInH0em9CcNxEJJR85wI78nNFzkd0beWF2ZYf855GyV6Pt1HHee/dTlGOdr6Y2mCxyw9ZbIve24E86YUK34dUIiqduy2u5qrhbPzUkimkyI2C16Qv+Sh5/iG7sdPsyo51xq8F5wtCL5NrwI1ruZQSOUjWsREYFzMaxfXNH7Em+5LmGLS9lM1zSOcALNm0xBRD5CD3qpwFxoG3BGUqBH3tEomrCI8Wwh9y77ZRM4eyZbV7zsB1cWIo5AhIrneCFckNda5aBC5WDKhMVE8DcYoie4GqS3cne9sQinr2WLbWsYaiHWVhgWK2+QgIYG4wBg+gYwl9BNYPWOew2tJ8FpEhZg8RyTy2zbNFWjHmWritJ6QQV5WmJf9tfg1WVt4oiGCbQjMpcLSrVScJdrLRZMjk9hOtz/IRszHW0k3+XlqdcUlXqjNKHS2IDdNMJm6F0NWgJnYPGaGzkpSX1OYMu38YTFSyIVx7q+wmIjuTg3SFCvn+t6HyreoDVUvP1c9og7E7dzPU3/LDrrN+Uzp9cWnw0P5rO7bUqLSYCjBU6/rjhTEyhoYt/oR47h5Go8HNBNfpGt8afmpd5RiHPclg2MamgTB9SnLMH8iwKiC8Ef2zaLEyTM3VAg1BCLkdMSFuP9ZLk5sM6cLfvjMl2OLGw5srFlvy1PyZOjCl3GDPyDBjhoRppBwX4PDKx/igWpHbtgHHPKtoZ/p3H98EiO2BpcOxBn2UP6j4yMqGA6Ln2gaUHHRX6hzapmIU7SVSQghVIrfCu6J0cN44NZ2mZ8qDdqy/jQPp5WkHW1canehRU5NTEgc5pQnllKd9tsdk3iJAQrAassoO7yCvYneC7sBh+5XlP0+22h7+w/Gb6RCAsGdKEP7LMPp71KPD0wTwi3Z4PJa+2EMCs3eepPLCSrCgE1wHx6p1E2eQhlWtEYthVMIbNaozgsJJK/cPIMinhkeXybdi/+MIRQr6HDtOcvtppNhdZKkcyZUhkcHGUuQ+OG0LRXG0Bm5eag4gABxXPis0aDdaCbfvVXSwghLFxZBMs6Aj5VlxwchTRbqwYgsySkSBM2S+egLD6l6ZIldEZVztOV+cw9wFfJaSRMmlBnjEUEJzujypTwF8zvlRnsXvPcMLeVHaygt1Z2QLYakBFdFqndWVPxcLA/qrQH/+2dkmZZKIsqObgD5exhFWK+nfTVsmxKQsDggAmCcL/mFifnhKNDideKcmvRqmMWl0pp+g+S+CRgwJRdjMpQTOTzOBaZWykFnBlmtvjVClprnumYRZne1dVf0nXkv6FxiImu5dcR0JtFzH8uK7ye4tRCJDA+mqiwGtyMrbhPdjyy5hKg35D8xrtFLosM9KX8HMfXq63c8fl06aKGyqyLAD5Im2ZVAm7V01aKPqNmm1ppHUN8kGJtFYbPp8y8fLlXmzWvxxorU099ZNl72mIIm89TIgxtF3d4BwBm/QBdflbmzWu4rcPwLpt2bSWZemUmLAvuG+kyTwrWlMs5AU4XWT4gZ8GSMvLX2cH/cd7VpAW/a/x5OuFVCzvj8hJqA3rWBjtjoXGvvJDjVt40qR0aCx3L1Vwz1MlczTw+IMwTZZOwBZplM9FmNN9K/rQoj0J9QJ5wSxwa0yCIzASz8/5UcFRJBR1kfk7lWcJNt61w07UVZ47jm635n9vU/458+OSgVzGs1kub+l91oX4V5Rr/+8jj0DVLtujyjB0UOWVMXEtCeCQHhe7mo3CF1+bLe/f2Pw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram id="wPRmosu2kGfP2HcqIkJW" name="Diagrama de Classes">
+    <mxGraphModel dx="1783" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-3" value="&lt;b&gt;Atleta&lt;/b&gt;" style="shape=swimlane;rounded=0;startSize=28;swimlaneFillColor=#FFFFFF;strokeColor=#666666;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-4" value="- nome: String&lt;br&gt;- pais: Pais" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-3">
+          <mxGeometry y="28" width="240" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-5" value="+ inscreverEmCompeticao(c: Competicao)" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-3">
+          <mxGeometry y="104.5" width="240" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-6" value="&lt;b&gt;País&lt;/b&gt;" style="shape=swimlane;rounded=0;startSize=28;swimlaneFillColor=#FFFFFF;strokeColor=#666666;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-7" value="- nome: String&lt;br/&gt;- medalhasOuro: int&lt;br/&gt;- medalhasPrata: int&lt;br/&gt;- medalhasBronze: int" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-6">
+          <mxGeometry y="28" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-8" value="+ adicionarMedalha(tipo: String)" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-6">
+          <mxGeometry y="118" width="240" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-9" value="&lt;b&gt;Competicao&lt;/b&gt;" style="shape=swimlane;rounded=0;startSize=28;swimlaneFillColor=#FFFFFF;strokeColor=#666666;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-10" value="- modalidade: String&lt;br/&gt;- data: LocalDate&lt;br/&gt;- horario: LocalTime&lt;br/&gt;- local: Local&lt;br/&gt;- atletasInscritos: List&lt;Atleta&gt;&lt;br/&gt;- resultado: Resultado" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-9">
+          <mxGeometry y="28" width="280" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-11" value="+ adicionarAtleta(a: Atleta)&lt;br/&gt;+ definirLocal(l: Local)&lt;br/&gt;+ registrarResultado(r: Resultado)" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-9">
+          <mxGeometry y="136" width="280" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-12" value="&lt;b&gt;RelatorioMedalhas&lt;/b&gt;" style="shape=swimlane;rounded=0;startSize=28;swimlaneFillColor=#FFFFFF;strokeColor=#666666;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-13" value="- paises: List&lt;Pais&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-12">
+          <mxGeometry y="28" width="300" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-14" value="+ gerarRankingPorMedalhas(): List&lt;Pais&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-12">
+          <mxGeometry y="100" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-15" value="&lt;b&gt;Local&lt;/b&gt;" style="shape=swimlane;rounded=0;startSize=28;swimlaneFillColor=#FFFFFF;strokeColor=#666666;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="190" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-16" value="- nome: String&lt;br/&gt;- endereco: String&lt;br/&gt;- horariosOcupados: List&lt;LocalDateTime&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-15">
+          <mxGeometry y="28" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-17" value="+ verificarDisponibilidade(dataHora: LocalDateTime): boolean&lt;br/&gt;+ reservarHorario(dataHora: LocalDateTime)" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-15">
+          <mxGeometry y="118" width="300" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-18" value="&lt;b&gt;Resultado&lt;/b&gt;" style="shape=swimlane;rounded=0;startSize=28;swimlaneFillColor=#FFFFFF;strokeColor=#666666;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="450" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-19" value="- primeiroLugar: Atleta&lt;br/&gt;- segundoLugar: Atleta&lt;br/&gt;- terceiroLugar: Atleta" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-18">
+          <mxGeometry y="28" width="280" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-20" value="+ definirVencedores(a1: Atleta, a2: Atleta, a3: Atleta)" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;" vertex="1" parent="loE1S1ZeLWtRoE7Lbi62-18">
+          <mxGeometry y="100" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-21" value="0..*- 0..*" style="endArrow=block;html=1;strokeColor=#666666;" edge="1" parent="1" source="loE1S1ZeLWtRoE7Lbi62-9" target="loE1S1ZeLWtRoE7Lbi62-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-22" value="" style="endArrow=block;html=1;strokeColor=#666666;" edge="1" parent="1" source="loE1S1ZeLWtRoE7Lbi62-31" target="loE1S1ZeLWtRoE7Lbi62-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-23" value="1 - 0..1" style="endArrow=block;html=1;strokeColor=#666666;" edge="1" parent="1" source="loE1S1ZeLWtRoE7Lbi62-9" target="loE1S1ZeLWtRoE7Lbi62-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-24" value="" style="endArrow=block;html=1;strokeColor=#666666;" edge="1" parent="1" source="loE1S1ZeLWtRoE7Lbi62-36" target="loE1S1ZeLWtRoE7Lbi62-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-25" value="1-0..*" style="endArrow=block;html=1;strokeColor=#666666;" edge="1" parent="1" source="loE1S1ZeLWtRoE7Lbi62-12" target="loE1S1ZeLWtRoE7Lbi62-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-35" value="" style="endArrow=none;html=1;strokeColor=#666666;shape=wire;dashed=1;endFill=0;" edge="1" parent="1" source="loE1S1ZeLWtRoE7Lbi62-9" target="loE1S1ZeLWtRoE7Lbi62-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="199" as="sourcePoint" />
+            <mxPoint x="900" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-31" value="1-0..1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-37" value="" style="endArrow=none;html=1;strokeColor=#666666;endFill=0;" edge="1" parent="1" source="loE1S1ZeLWtRoE7Lbi62-3" target="loE1S1ZeLWtRoE7Lbi62-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="200" as="sourcePoint" />
+            <mxPoint x="150" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loE1S1ZeLWtRoE7Lbi62-36" value="1-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
