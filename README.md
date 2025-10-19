@@ -40,7 +40,7 @@ O sistema foi modelado utilizando os seguintes diagramas UML, conforme solicitad
 
 **Foco:** Modelar os casos de uso principais (`Cadastrar Competição`, `Inscrever Atleta`, `Alocar Local`, `Registrar Resultados`) e identificar os atores.
 
-<img width="800px" src="[URL_BASE_DO_REPOSITORIO]/blob/main/imagens/diagrama-de-caso-de-uso.png"/>
+<img width="500px" height="500px" src="imagens/CasosdeUso.png"/>
 
 ---
 
