@@ -59,7 +59,7 @@ O sistema foi modelado utilizando os seguintes diagramas UML, conforme solicitad
 
 **Foco:** Modelar os componentes principais (`Interface de Usuário`, `Módulo de Inscrições`, `Módulo de Alocação`, `Módulo de Relatórios`) e suas interações.
 
-<img width="800px" src="[URL_BASE_DO_REPOSITORIO]/blob/main/imagens/diagrama-de-componentes.png"/>
+<img width="500px" height="500px" src="imagens/DiagramaDeComponentes.png"/>
 
 ---
 
@@ -67,4 +67,4 @@ O sistema foi modelado utilizando os seguintes diagramas UML, conforme solicitad
 
 **Foco:** Ilustrar a arquitetura física do sistema, incluindo a distribuição dos componentes em servidores, bancos de dados e dispositivos de usuário.
 
-<img width="800px" src="[URL_BASE_DO_REPOSITORIO]/blob/main/imagens/diagrama-de-implantação.png"/>
+<img width="500px" height="500px" src="imagens/DiagramaDeImplantação.png"/>
