@@ -67,4 +67,4 @@ O sistema foi modelado utilizando os seguintes diagramas UML, conforme solicitad
 
 **Foco:** Ilustrar a arquitetura física do sistema, incluindo a distribuição dos componentes em servidores, bancos de dados e dispositivos de usuário.
 
-<img width="500px" height="500px" src="imagens/DiagramaDeImplantação.png"/>
+<img width="500px" height="500px" img src="imagens/Diagrama de Implantação.png"/>
